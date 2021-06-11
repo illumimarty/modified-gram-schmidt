@@ -9,14 +9,17 @@ The Modified Gram-Schmidt Process provides a much more stable solution that intr
 ---
 ### Images
 **Graphing orthonormal basis vectors from MGS**
+
 ![](https://i.imgur.com/VZITyD4.png)
 
 
 **CGS vs. MGS with random integer matrices (1<=k<=100)**
+
 ![](https://i.imgur.com/yrYJCYj.png)
 
 
 **CGS vs. MGS with Hilbert matrices (1<=k<=100)**
+
 ![](https://i.imgur.com/iE8O2mP.png)
 
 
